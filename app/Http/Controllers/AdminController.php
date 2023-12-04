@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Models\User;
 
-class Admincontroller extends Controller
+class Adminontroller extends Controller
 {
        public function user()
     { 
